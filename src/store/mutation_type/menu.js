@@ -1,0 +1,1 @@
+export const MENU_STATUS = 'MENU_STATUS' // 导航栏菜单状态
